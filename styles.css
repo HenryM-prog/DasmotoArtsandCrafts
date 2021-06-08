@@ -1,0 +1,37 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url(images/DasmotoArtsandCraftsImg4.webp);
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushheading {
+    background-color: mediumspringgreen;
+}
+
+.framesheading {
+    background-color: lightcoral;
+}
+
+.paintheading {
+    background-color: skyblue;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+span {
+    color: blue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
